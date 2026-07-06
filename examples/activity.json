@@ -1,0 +1,10 @@
+{
+  "entries": [
+    { "type": "reply", "handle": "builder1" },
+    { "type": "reply", "handle": "builder1" },
+    { "type": "reply", "handle": "founder2" },
+    { "type": "post" },
+    { "type": "reply", "handle": "builder3" }
+  ],
+  "periodDays": 7
+}

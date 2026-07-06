@@ -1,0 +1,9 @@
+{
+  "yourFollowers": 800,
+  "yourNiche": "SaaS",
+  "accounts": [
+    { "handle": "builder1", "followers": 12000, "niche": "SaaS", "postsPerWeek": 5, "avgRepliesPerPost": 14 },
+    { "handle": "founder2", "followers": 45000, "niche": "indie hackers", "postsPerWeek": 4 },
+    { "handle": "mega", "followers": 500000, "niche": "tech" }
+  ]
+}
